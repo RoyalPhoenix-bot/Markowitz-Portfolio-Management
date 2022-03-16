@@ -1,4 +1,4 @@
-# Markowitz Portfolio Management
+# Markowitz Portfolio Management 
 Learnt about the **Markowitz theory** to diversify portfolio to earn a particular interest with the smallest amount of risk and implemented the theory in *python* by analysing the Nifty 50 stocks over 4 years.
 
 ## [Assignment 1](./Assignment%201)
