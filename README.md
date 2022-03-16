@@ -23,5 +23,4 @@ Learnt about the **Markowitz theory** to diversify portfolio to earn a particula
     5. Sortino/Teynor Ratio
 
 
-**Datafile:** [nifty50.csv](nifty50.csv) 
-"# Markowitz-Portfolio-Management" 
+**Datafile:** [nifty50.csv](nifty50.csv)
